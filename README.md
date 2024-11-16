@@ -1,18 +1,34 @@
-## Getting Started
+# 🎉 Meu Primeiro Programa em Java 🎉
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Seja bem-vindo(a) ao meu primeiro programa em **Java**! ☕✨ Neste projeto, dei os primeiros passos na programação com Java, criando um desafio para calcular e imprimir o salario a ser transferido para um funcionario"**. Vamos celebrar essa conquista juntos! 🚀🎈
 
-## Folder Structure
+## 📌 Objetivo do Projeto
 
-The workspace contains two folders by default, where:
+Aprender o básico de **Java**, entendendo como estruturar um programa, compilar e executar o código. Um pequeno passo para mim, mas um grande passo para minha jornada como desenvolvedor(a)! 💻
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+## 🛠️ Estrutura do Projeto
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+- **`calcular e imprimir`**: Arquivo principal com o código do programa.
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+## 🚀 Código do Programa
 
-## Dependency Management
+```java
+public class Desafio {
+    public static void main(String[] args) {
+        System.out.println(string.format("%.2f" ,saída)); 🚀✨
+    }
+}
+```
 
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+### O que ele faz?  
+Exibe no console os calculos!** 🌍✨
+
+## 🎈 Vamos Codar!
+
+Esse é só o começo da minha jornada com Java! Mais programas incríveis estão por vir. 🎊
+
+---
+
+☕ **Java é só o início!** Vamos evoluir e criar algo incrível juntos! 🚀
+
+#Java #HelloWorld #PrimeiroPrograma #DevJourney
